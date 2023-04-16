@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+div{
+	width:300px;
+	background-color:lightblue;
+	padding:50px;
+	border-style:solid;
+	border-color:blue;
+	border-width:15px;
+	margin:20px;
+}
